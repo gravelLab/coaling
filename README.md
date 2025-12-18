@@ -1,4 +1,4 @@
-# Pedigree-ARG Matching
+# coaling
 
 This project addresses the alignment problem between a pedigree and a coalescent tree that describes genetic transmissions within a given pedigree. Specifically, given the following inputs:
 

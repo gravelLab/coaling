@@ -1,7 +1,7 @@
 .. Sphinx documentation can be found here: https://www.sphinx-doc.org/en/master/index.html
 
 ================================================================================
-Pedigree-ARG matching
+coalign
 ================================================================================
 
 This project addresses the alignment problem between a pedigree and an Ancestral Recombination Graph (ARG) that describes genetic transmissions within a given pedigree.
