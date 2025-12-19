@@ -25,7 +25,7 @@ In other words, the goal is to find valid extensions of the initial assignments 
 
 ## Documentation
 
-The documentation for the project can be found [here](https://gravellab.github.io/pedigree-ARG-matching/).
+The documentation for the project can be found [here](https://gravellab.github.io/coaling/).
 
 ## Installation
 
